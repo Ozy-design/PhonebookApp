@@ -17,11 +17,19 @@ This project is a simple Phonebook application developed in Java, allowing users
 ### Requirements
 Java Development Kit (JDK) installed on your machine (version 8 or higher recommended).
 
-# java Phonebook
+## java Phonebook
 #### Usage Instructions
 - Follow the on-screen menu to choose the desired operation.
 - Enter the required information as prompted.
 - To exit, select the option 0.
+
+#### Contacts to perform
+- Amadhila V +264 81 221 7111
+- Moses Erastus +264 81 209 7035
+- Osvaldu Vasco +264 81 840 1588
+- Mukete Shali +264 81 873 8758 
+- Beyonce Nghidamwasha +264 81 575 6425 
+- Andreia Panzo +264 81 256 0182
 
 ### Example
 Phonebook Menu:
