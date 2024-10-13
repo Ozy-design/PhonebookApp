@@ -16,30 +16,12 @@ This project is a simple Phonebook application developed in Java, allowing users
 
 ### Requirements
 Java Development Kit (JDK) installed on your machine (version 8 or higher recommended).
-Getting Started
-Clone the Repository
-To get started, clone the repository using the following command:
 
-bash
-Copy code
-git clone https://github.com/Ozy-design/PhonebookApp.git
-Compile the Code
-Navigate to the project directory and compile the Java files:
-
-bash
-Copy code
-cd your-repo-name
-javac Phonebook.java
-Run the Application
-After compiling, run the application using:
-
-bash
-Copy code
-java Phonebook
-Usage Instructions
-Follow the on-screen menu to choose the desired operation.
-Enter the required information as prompted.
-To exit, select the option 0.
+# java Phonebook
+#### Usage Instructions
+- Follow the on-screen menu to choose the desired operation.
+- Enter the required information as prompted.
+- To exit, select the option 0.
 
 ### Example
 Phonebook Menu:
@@ -52,3 +34,5 @@ Phonebook Menu:
 7. Analyze Search Efficiency
 0. Exit
 Enter your choice:
+
+This process will allow the user to perform an efficient phonebook operation.
